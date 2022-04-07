@@ -62,7 +62,7 @@ const Home: NextPage = () => {
               <div className={styles.timeTable}>
                 <h3 className={styles.subHeading}>Evening timetable</h3>
                 <p>
-                  <strong>Hollyfields to Tunbridge Wells Station</strong>
+                  <strong>Tunbridge Wells Station to Hollyfields</strong>
                 </p>
                 <div className={styles.timeTableLine}>
                   <p>Departs: 18:20</p>
