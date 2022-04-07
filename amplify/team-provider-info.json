@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-hollyfieldshelp-dev-180642-authRole",
+      "UnauthRoleArn": "arn:aws:iam::919226768034:role/amplify-hollyfieldshelp-dev-180642-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::919226768034:role/amplify-hollyfieldshelp-dev-180642-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-hollyfieldshelp-dev-180642-deployment",
+      "UnauthRoleName": "amplify-hollyfieldshelp-dev-180642-unauthRole",
+      "StackName": "amplify-hollyfieldshelp-dev-180642",
+      "StackId": "arn:aws:cloudformation:eu-west-2:919226768034:stack/amplify-hollyfieldshelp-dev-180642/1a4bcb80-b695-11ec-9453-0a6551504264",
+      "AmplifyAppId": "d3l7ixi593bcje"
+    }
+  }
+}
