@@ -30,7 +30,7 @@ const Home: NextPage = () => {
         <div className={styles.grid}>
           <div className={styles.gridItem}>
             <h2 className={styles.subHeading}>Shuttle Information:</h2>
-            <p><strong>Morning pickup location:</strong> Visitor Bay opposite Berkeley Homes' Sales and Marketing
+            <p><strong>Morning pickup location:</strong> Visitor Bay opposite Berkeley Homes Sales and Marketing
               Suite on Duncalf Road.</p>
             <p><strong>Evening pickup location:</strong> Outside Tunbridge Wells Station, on the side of The Range store.</p>
 
